@@ -1,0 +1,17 @@
+/* Font size */
+@value fontLarge: 48px;
+@value fontMedium: 28px;
+@value fontRegular: 20px;
+@value fontSmall: 16px;
+@value fontMicro: 14px;
+
+/* Font weight */
+@value weightBold: 700;
+@value weightSemiBold: 600;
+@value weightReqular: 400;
+
+/* Size */
+@value sizeBorderRadius: 4px;
+
+/* Animation */
+@value animationDuration: 300ms;

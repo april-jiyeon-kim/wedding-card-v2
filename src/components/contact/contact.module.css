@@ -1,0 +1,5 @@
+@value colorBackground from '../../common/colors.css';
+.section {
+  background: colorBackground;
+  padding: 70px;
+}

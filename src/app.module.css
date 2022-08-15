@@ -1,0 +1,32 @@
+@value colorBackground from './common/colors.css';
+@value fontMedium, fontMicro, weightBold from './common/size.css';
+
+@font-face {
+  font-family: "coopbl";
+  src: url("./fonts/COOPBL.TTF");
+}
+
+h1 {
+  font-size: fontLarge;
+  font-weight: weightBold;
+  margin: 16px 0px;
+  font-family: "coopbl";
+}
+
+/* Section common */
+section {
+  padding: 20px;
+  padding-bottom: 0;
+  text-align: center;
+  margin: auto;
+}
+
+footer {
+  text-align: center;
+  margin: auto;
+}
+
+p {
+  font-size: fontMicro;
+  font-family: "coopbl";
+}

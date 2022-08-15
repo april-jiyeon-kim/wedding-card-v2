@@ -1,0 +1,29 @@
+.section__container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.wedding__memory {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 30px;
+  opacity: 1;
+  transition: all var(--animation-duration) ease-out;
+}
+.memory {
+  padding: 3px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2px;
+  background-color: colorBackground;
+}
+.memory__img {
+  max-width: 100%;
+}
+.gallery {
+  max-width: 1200px;
+  margin: auto;
+}
