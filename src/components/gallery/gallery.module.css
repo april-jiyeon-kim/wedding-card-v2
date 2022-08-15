@@ -7,7 +7,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding: 30px;
+  padding: 20px;
   opacity: 1;
   transition: all var(--animation-duration) ease-out;
 }

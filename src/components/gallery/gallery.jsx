@@ -14,7 +14,7 @@ const Gallery = () => {
   return (
     <section>
       <div className={styles.section__container}>
-        <h1>Our Moments</h1>
+        <h1>OUR MOMENTS</h1>
         <div className={styles.wedding__memory}>
           {weddingPhotos.map((photo) => {
             return (

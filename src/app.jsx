@@ -25,7 +25,7 @@ function App() {
               }
             />
             <Route
-              path="/misook"
+              path="/misuk"
               element={
                 <>
                   <Card version={2} />

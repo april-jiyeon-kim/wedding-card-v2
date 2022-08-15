@@ -9,8 +9,11 @@
 h1 {
   font-size: fontSmall;
   font-weight: weightBold;
-  margin: 16px 0px 30px 0px;
+  margin: 6px 0px 25px 0px;
   font-family: "coopbl";
+  opacity: 0.7;
+  text-decoration: underline;
+  text-decoration-style: double;
 }
 
 /* Section common */
@@ -24,7 +27,7 @@ section {
 footer {
   text-align: center;
   margin: auto;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
 }
 
 p {
