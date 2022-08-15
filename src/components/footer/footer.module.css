@@ -1,0 +1,6 @@
+@value fontMicro from '../../common/size.css';
+
+.right {
+  opacity: 0.7;
+  font-size: fontMicro;
+}

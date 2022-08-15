@@ -1,5 +1,5 @@
 @value colorBackground from './common/colors.css';
-@value fontMedium, fontMicro, weightBold from './common/size.css';
+@value fontSmall, fontMicro, weightBold from './common/size.css';
 
 @font-face {
   font-family: "coopbl";
@@ -7,9 +7,9 @@
 }
 
 h1 {
-  font-size: fontLarge;
+  font-size: fontSmall;
   font-weight: weightBold;
-  margin: 16px 0px;
+  margin: 16px 0px 30px 0px;
   font-family: "coopbl";
 }
 
@@ -24,6 +24,7 @@ section {
 footer {
   text-align: center;
   margin: auto;
+  padding-bottom: 40px;
 }
 
 p {
